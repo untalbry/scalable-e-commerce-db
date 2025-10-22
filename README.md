@@ -14,3 +14,5 @@ cd scripts/dev
 ```bash 
 psql -U postgres -f build.sql
 ```
+> [!NOTE]
+> Change `postgres` for your postgres user 
