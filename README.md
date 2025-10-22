@@ -6,7 +6,7 @@ If your user is `postgres` you can excecute de proyect using the following comma
 3. Enter the selected folder, for example, the dev backups folder:
 
 ```bash 
-cd scripts/backups
+cd scripts/dev
 ```
 
 4. Run the Postgres client, passing the build.sql file as an argument. 
